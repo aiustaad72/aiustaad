@@ -4,7 +4,7 @@ import { useState, useEffect, useRef } from "react";
 const ROOMS = {};
 const FREE_LIMIT = 10;
 const SHARE_REQUIRED = 5;
-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  
+
 const SUBJECTS = ["General","Mathematics","Physics","Chemistry","Biology","English","Urdu","Computer","History","Geography","Economics","Islamic Studies"];
 const CLASSES  = ["6th","7th","8th","9th","10th","11th","12th","University"];
 
