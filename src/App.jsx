@@ -5,8 +5,7 @@ import { useState, useEffect, useRef } from "react";
 //  Sirf aap yeh file dekhte hain
 //  Users ko kabhi nahi dikhega
 // ════════════════════════════════════════
-const API_KEY = "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
-";
+const API_KEY = "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";
 // ════════════════════════════════════════
 
 const ROOMS = {};
