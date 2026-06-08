@@ -5,7 +5,8 @@ import { useState, useEffect, useRef } from "react";
 //  Sirf aap yeh file dekhte hain
 //  Users ko kabhi nahi dikhega
 // ════════════════════════════════════════
-const API_KEY = "APNI_KEY_YAHAN_LIKHO";
+const API_KEY = "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
+";
 // ════════════════════════════════════════
 
 const ROOMS = {};
